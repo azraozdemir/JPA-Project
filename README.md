@@ -1,6 +1,6 @@
 # JPA-Project
 
-# GymFlow – Fitnessstudio-Verwaltung
+## GymFlow – Fitnessstudio-Verwaltung
 
 ## Features
 
