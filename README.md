@@ -34,11 +34,16 @@
 
 ## Tech Stack
 
-- Java 21
+### Backend
+
+- Java
 - Quarkus
-- Hibernate ORM (JPA) mit Panache
+- Hibernate ORM (JPA) 
 - PostgreSQL
-- JUnit 5 & RestAssured
+
+### Frontend
+
+- Angular
 
 ## Architektur
 
@@ -51,8 +56,6 @@ dto        → Datenobjekte für die REST-API
 ```
 
 ## Projekt starten
-
-Voraussetzungen: Java 21, Maven, Docker (für die Datenbank über Quarkus Dev Services)
 
 ```bash
 ./mvnw quarkus:dev
