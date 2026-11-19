@@ -1,10 +1,6 @@
 # JPA-Project
 
-# 🏋️ FitHub – Fitnessstudio-Verwaltung
-
-Schulprojekt **JPA.05** im Fach DBI an der HTL Leonding.
-
-FitHub ist eine REST-Anwendung zur Verwaltung eines Fitnessstudios. Mitglieder schließen Verträge ab, melden sich zu Kursen an und bezahlen ihre Beiträge. Trainer leiten Kurstermine in verschiedenen Räumen.
+# GymFlow – Fitnessstudio-Verwaltung
 
 ## Features
 
