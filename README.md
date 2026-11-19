@@ -2,14 +2,6 @@
 
 ## GymFlow – Fitnessstudio-Verwaltung
 
-## Features
-
-- Mitglied werden (Tarif wählen, Vertrag anlegen)
-- Kursplan mit freien Plätzen anzeigen
-- Zu einem Kurstermin an- und abmelden
-- Offene Zahlungen pro Mitglied anzeigen
-- Auswertung: Mitglieder ohne Kursbesuch im aktuellen Monat
-
 ## Datenmodell
 
 | Entity | Beschreibung |
