@@ -67,3 +67,5 @@ Die Dev UI ist unter `http://localhost:8080/q/dev` erreichbar.
 - David   
 - Azra
 - Lena
+- Sulejman
+- Hamlet
