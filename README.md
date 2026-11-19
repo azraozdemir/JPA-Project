@@ -69,7 +69,6 @@ Die Dev UI ist unter `http://localhost:8080/q/dev` erreichbar.
 
 ## Team
 
-- Name 1
-- Name 2
-- Name 3
-- Name 4
+- David   
+- Azra
+- Lena
